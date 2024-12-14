@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+./src/App-v1.js
+./src/App-v2.js
+
 # production
 /build
 
